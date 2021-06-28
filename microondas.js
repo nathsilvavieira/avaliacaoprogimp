@@ -39,10 +39,38 @@ function microondas(prato,novotempo ){
         
     }   
 }
-
+//-----------------------------pipoca
+console.log("\n Pipoca");
 microondas("pipoca",5);
 microondas("pipoca",10);
 microondas("pipoca",25);
 microondas("pipoca",35);
+//---------------------------- macarrao
+console.log("\n Macarrao");
+microondas("macarrao",5);
+microondas("macarrao",8);
+microondas("macarrao",17);
+microondas("macarrao",30);
+//---------------------- carne
+console.log("\n Carne");
+microondas("carne",5);
+microondas("carne",15);
+microondas("carne",31);
+microondas("carne",50);
+//--------------------------feijao
+console.log("\n Feijao");
+microondas("feijao",5);
+microondas("feijao",12);
+microondas("feijao",25);
+microondas("feijao",50);
+//------------------------brigadeiro
+console.log("\n Brigadeiro");
+microondas("brigadeiro",5);
+microondas("brigadeiro",8);
+microondas("brigadeiro",17);
+microondas("brigadeiro",30);
+//------------------------opcao invalida
+console.log("\n Opcao inválida");
+microondas("shampoo",5);
 
 
